@@ -1,0 +1,6 @@
+@import url(/food-app/app/assets/fonts.css);
+
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
